@@ -1,0 +1,8 @@
+.vphoto{
+    background-image: url(./OIP-C.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.highlight{
+    background-color: pink;
+}
